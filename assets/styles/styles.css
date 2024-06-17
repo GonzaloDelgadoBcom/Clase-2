@@ -1,0 +1,20 @@
+#imagen {
+    width: 200px;
+    height: 200px;
+    border: 0px solid red;
+    cursor: pointer;
+}
+
+.sticker {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.input-sticker {
+    width: 50px;
+}
+
+.resultado {
+    margin-top: 20px;
+}
